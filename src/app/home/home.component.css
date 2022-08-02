@@ -1,0 +1,20 @@
+.back{
+    height:51em; background-size:cover; width:auto;
+    background-image:url('/assets/images/inventory.jpg');
+    background-position:50% 50%;
+  }
+#ims{
+    padding-top: 187px;
+    width: 1400px;
+}
+.card-img-bottom{
+  height: 230px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+h3{
+  text-align: center;
+  color: rgb(240, 105, 21);
+  font-family:cursive;
+  padding-top: 45px;
+}
